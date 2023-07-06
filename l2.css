@@ -1,0 +1,44 @@
+div{
+    background-color: pink;
+    border: 1px solid green;
+    width: 50%;
+    margin: 10px 5px 20px 30px;
+    padding: 10px;
+}
+
+main{
+    border: 1px solid black;
+    background-color: grey;
+}
+
+/* if you want to call a id use # */
+
+#first-div{
+    background-color: green;
+}
+
+/* if u want to call a class use . */
+
+li{
+    color: blue;
+}
+
+header nav ol li{
+    color: red;
+}
+
+body{
+    background-color: beige;
+    color: purple;
+}
+
+ol{
+    list-style-type: none;
+}
+
+a{
+    margin: 10px;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
