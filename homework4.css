@@ -55,7 +55,7 @@ footer{
 
 /*images are in their own divs with borders and spacing */
 .flex-container div{
-    width: 20%;
+    /* to make it responsive take out  width: 20%; */
     margin: 10px;
     padding: 10px;
 
