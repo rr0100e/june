@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(135, 125, 125, 0.697);
+}
+
+.background{
+height: 100vh;  
+background-repeat: no-repeat;
+ background-size: cover;
+}
+
+header nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+header nav ul li{
+   padding:250px 45px;
+}
+
+
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+header nav ul li a:hover{
+    border-bottom: 1px solid black;
+}
+
